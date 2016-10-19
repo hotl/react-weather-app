@@ -22,6 +22,10 @@ var About = (props) => {
             <a href="http://openweathermap.org">Open Weather Map</a>
             - Used to fetch weather data
           </li>
+          <li>
+            <a href="https://www.heroku.com">Heroku</a>
+            - Used to deploy this application
+          </li>
         </ul>
       </p>
     </div>
